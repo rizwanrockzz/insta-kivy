@@ -1,0 +1,55 @@
+llecting instaloader
+  Downloading instaloader-4.8.4.tar.gz (54 kB)
+     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 54 kB 105 kB/s
+Collecting requests>=2.4
+  Downloading requests-2.27.1-py2.py3-none-any.whl (63 kB)
+     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 63 kB 119 kB/s
+Collecting idna<4,>=2.5
+  Downloading idna-3.3-py3-none-any.whl (61 kB)
+     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 61 kB 1.9 MB/s
+Collecting charset-normalizer~=2.0.0
+  Downloading charset_normalizer-2.0.10-py3-none-any.whl (39 kB)
+Collecting certifi>=2017.4.17
+  Downloading certifi-2021.10.8-py2.py3-none-any.whl (149 kB)
+     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 149 kB ...
+Collecting urllib3<1.27,>=1.21.1
+  Downloading urllib3-1.26.8-py2.py3-none-any.whl (138 kB)
+     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 138 kB ...
+Using legacy 'setup.py install' for instaloader, since package 'wheel' is not installed.
+Installing collected packages: urllib3, idna, charset-normalizer, certifi, requests, instaloader
+    Running setup.py install for instaloader ... done
+Successfully installed certifi-2021.10.8 charset-normalizer-2.0.10 idna-3.3 instaloader-4.8.4 requests-2.27.1 urllib3-1.26.8
+
+
+
+
+Collecting instabot
+  Downloading instabot-0.117.0.tar.gz (84 kB)
+     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 84 kB 436 kB/s
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: certifi>=2019.11.28 in c:\users\cisco\appdata\local\programs\python\python310\lib\site-packages (from instabot) (2021.10.8)
+Collecting chardet>=3.0.4
+  Downloading chardet-4.0.0-py2.py3-none-any.whl (178 kB)
+     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 178 kB ...
+Collecting future>=0.18.2                                                                                                 Downloading future-0.18.2.tar.gz (829 kB)                                                                                  |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 829 kB 6.4 MB/s                                                                   Preparing metadata (setup.py) ... done
+Collecting huepy>=1.2.1                                                                                                   Downloading huepy-1.2.1.tar.gz (15 kB)                                                                                  Preparing metadata (setup.py) ... done
+Requirement already satisfied: idna>=2.8 in c:\users\cisco\appdata\local\programs\python\python310\lib\site-packages (from instabot) (3.3)
+Collecting pysocks>=1.7.1
+  Downloading PySocks-1.7.1-py3-none-any.whl (16 kB)
+Collecting pytz>=2019.3
+  Downloading pytz-2021.3-py2.py3-none-any.whl (503 kB)
+     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 503 kB ...
+Requirement already satisfied: requests>=2.22.0 in c:\users\cisco\appdata\local\programs\python\python310\lib\site-packages (from instabot) (2.27.1)
+Collecting requests-toolbelt>=0.9.1
+  Downloading requests_toolbelt-0.9.1-py2.py3-none-any.whl (54 kB)                                                           |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 54 kB 1.2 MB/s
+Collecting responses>=0.10.9
+  Downloading responses-0.17.0-py2.py3-none-any.whl (38 kB)
+Collecting schedule>=0.6.0                                                                                                Downloading schedule-1.1.0-py2.py3-none-any.whl (10 kB)                                                               Collecting six>=1.14.0                                                                                                    Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)                                                                   Collecting tqdm>=4.41.1                                                                                                   Downloading tqdm-4.62.3-py2.py3-none-any.whl (76 kB)                                                                       |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 76 kB 1.2 MB/s                                                                  Requirement already satisfied: urllib3>=1.25.7 in c:\users\cisco\appdata\local\programs\python\python310\lib\site-packages (from instabot) (1.26.8)
+Collecting mock>=3.0.5
+  Downloading mock-4.0.3-py3-none-any.whl (28 kB)
+Collecting moviepy>=1.0.1
+  Downloading moviepy-1.0.3.tar.gz (388 kB)
+     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 388 kB ...
+  Preparing metadata (setup.py) ... done
+Collecting Pillow>=6.2.2
+  Using cached Pillow-9.0.0-cp310-cp310-win_amd64.whl (3.2 MB)

@@ -1,0 +1,9 @@
+## PYTHON TO APK CONVERTING COMMANDS
+# Using Google Colab
+- upload all the project files in colab
+- and run these commands one by one
+
+https://colab.research.google.com/gist/kaustubhgupta/0d06ea84760f65888a2488bac9922c25/kivyapp-to-apk.ipynb#scrollTo=YZPSi3j4oweu
+
+
+blog : https://towardsdatascience.com/3-ways-to-convert-python-app-into-apk-77f4c9cd55af
