@@ -1,0 +1,68 @@
+varundvn
+alluarjunonline
+beingsalmankhan
+zuck
+iamsrk
+akshaykumar
+jannatzubair29
+narendramodi
+gururandhawa
+
+
+https://stackoverflow.com/questions/68761755/kivy-kivymd-application-crashes-on-android-after-compiling-to-apk
+
+https://dev.to/ngonidzashe/how-to-use-google-colab-to-package-kivymd-applications-with-buildozer-46bl
+
+https://developer.android.com/reference/android/Manifest.permission#INTERNET
+
+https://stackoverflow.com/questions/59384085/how-to-debug-a-kivy-kivymd-app-for-android
+
+WRITE_EXTERNAL_STORAGE
+MANAGE_MEDIA
+READ_EXTERNAL_STORAGE
+
+
+buildozer -v android deploy run logcat
+
+instadpdown-0.1-armeabi-v7a-debug
+
+ModuleNotFoundError: No module named 'urllib3'
+
+
+## adb commands
+
+adb install name-of-the-app.apk
+
+adb logcat
+
+for python reloated logs :::: adb logcat -s "python"
+
+
+
+## errors
+
+buildozer -v android deploy run logcat
+
+
+
+ModuleNotFoundError: No module named 'urllib3'
+
+
+# WARNING: Config token app android.sdk is deprecated and ignored, but you set value 24
+
+ModuleNotFoundError: No module named 'charset_normalizer'
+ModuleNotFoundError: No module named 'chardet'
+ModuleNotFoundError: No module named 'instaloader'
+ModuleNotFoundError: No module named 'idna'
+ModuleNotFoundError: No module named '_lzma'
+
+
+instaloader
+requests>=2.4
+kivy
+kivyMD
+
+urllib3<1.27,>=1.21.1
+charser-normalizer~=2.0.0
+idna<4,>=2.5
+certifi>=2017.4.17
