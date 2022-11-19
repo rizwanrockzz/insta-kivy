@@ -1,0 +1,50 @@
+# MainWidget:
+UsingBoxLayout:
+
+<UsingBoxLayout>:
+    # orientation: 'vertical'
+    Button:
+        text: "A1"
+    BoxLayout:
+        # size_hint: .5, .5
+        orientation: 'vertical'
+        pos_hint: {"center_x": 0.5}
+        Button:
+            text: "A"
+            font_size: "30dp"
+            size_hint: .5, .5
+            pos_hint: {"center_y": 0.5}
+            background_color:"#40E0D0"
+        
+        Button:
+            text: "B"
+            font_size: "30dp"
+            size_hint: .5, .5
+            pos_hint: {"center_x": 0.5}
+            background_color:"#FF8C00"
+        
+        Button:
+            text: "C"
+            font_size: "30dp"
+            size_hint: .5, .5
+            pos_hint: {"center_x": 0.5}
+            background_color:"#FF0080"
+    Button:
+        text: "A1"
+    
+<MainWidget>:
+    Button:
+        text: "Hello"
+        size: "150dp","50dp"
+        pos:"300dp","300dp"
+    Label:
+        text: "INSTA APP"
+        color: "#FF0059"
+        pos:"300dp","450dp"
+        font_size: "50dp"
+    Label:
+        text: "Made by Rizwan"
+        color: "#FF0059"
+        pos:"300dp","150dp"
+        font_size: "15dp"
+        
